@@ -1,0 +1,10 @@
+checkpoint/*
+
+data/mimic-iii/*
+data/physionet_sepsis/*
+
+*.log
+
+
+
+*.out
